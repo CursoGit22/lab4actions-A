@@ -15,3 +15,8 @@ npm run build:dev
 ```
 
 Posteriormente publicouse neste repositorio o contido de /dist 
+
+
+Web onde se reflexa a web despregada manualmente.
+
+[https://cursogit22.github.io/lab4actions-A/](https://cursogit22.github.io/lab4actions-A/)
