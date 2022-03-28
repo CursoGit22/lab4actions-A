@@ -1,6 +1,10 @@
 # lab4actions-A
 
-Previamente executouse sobre o repositorio  https://github.com/CursoGit22/lab4-actions
+Previamente editouse os ficheiros:
+
+* prod.env ==> (produción) coa organización  ***debian***
+* dev.env  ==> (desenvolvemento)coa organización ***openStreetMap***
+
 
 ```bash 
 npm i
