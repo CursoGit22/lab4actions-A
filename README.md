@@ -6,7 +6,7 @@ Previamente editouse os ficheiros:
 * dev.env  ==> (desenvolvemento)coa organización ***openStreetMap***
 * lab4actions-A/src/core/theme/theme.ts ==> Para mudar a cor do CSS. 
 * lab4actions-A/src/assets/logo.png ==> logotipo 
-* 
+
 
 
 ```bash 
@@ -27,5 +27,7 @@ Logo crearás unha rama **gh-pages** isto disparará que se despregue o contido 
 
 
 E finalmente borras o contido da rama **gh-pages** e só deixas o contido do directorio  **dist** que é o que se despregará.
+
+URL coa aplicación despregada: https://cursogit22.github.io/lab4actions-A/
 
  
