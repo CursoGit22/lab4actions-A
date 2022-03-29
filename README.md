@@ -4,8 +4,8 @@ Previamente editouse os ficheiros:
 
 * prod.env ==> (produción) coa organización  ***debian***
 * dev.env  ==> (desenvolvemento)coa organización ***openStreetMap***
-* /home/belay/gitcurso/lab4actions-A/src/core/theme/theme.ts ==> Para mudar a cor do CSS. 
-* /home/belay/gitcurso/lab4actions-A/src/assets/logo.png ==> logotipo 
+* lab4actions-A/src/core/theme/theme.ts ==> Para mudar a cor do CSS. 
+* lab4actions-A/src/assets/logo.png ==> logotipo 
 * 
 
 
