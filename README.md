@@ -1,4 +1,8 @@
 # lab4actions-A
+## Despregamento
+URL coa aplicación despregada: https://cursogit22.github.io/lab4actions-A/
+
+## Pasos
 
 Previamente editouse os ficheiros:
 
@@ -28,6 +32,5 @@ Logo crearás unha rama **gh-pages** isto disparará que se despregue o contido 
 
 E finalmente borras o contido da rama **gh-pages** e só deixas o contido do directorio  **dist** que é o que se despregará.
 
-URL coa aplicación despregada: https://cursogit22.github.io/lab4actions-A/
 
  
